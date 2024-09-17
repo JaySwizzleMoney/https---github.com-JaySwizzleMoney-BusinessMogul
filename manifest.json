@@ -1,0 +1,21 @@
+{
+    "name": "Business Mogul",
+    "short_name": "BusinessMogul",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "commercial_building.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "commercial_building.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
